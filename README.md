@@ -1,6 +1,8 @@
 
-Bene!
-  prima cosa da fare e' copiare la chiave ssh di codio sul proprio repository si github.com
+Bene! oggi proviamo!
+
+
+  prima cosa da fare e' copiare la chiave ssh di codio sul proprio repository su github.com
   
   
   Poi si genera un repository su github e si ottiene un 'riferimento ssh'.
@@ -17,3 +19,14 @@ Bene!
   
   aggiungiamo delle modifiche. Ad esempio un [Zuccante](http://serale.zuccante.it/)
   
+  a questo punto distruggiamo il project
+  - codio DashBoard
+  - 'rotellina'
+  - delete
+  
+  e poi distruggiamo il repository su github.com
+  - account setting
+  - repository 
+  - ancora setting
+  - andare su 'danger zone'
+  - selezionare 'Delete this repository'
