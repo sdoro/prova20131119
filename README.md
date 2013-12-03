@@ -1,5 +1,5 @@
 
-Bene! oggi proviamo!
+Bene! oggi riproviamo!
 
 
   prima cosa da fare e' copiare la chiave ssh di codio sul proprio repository su github.com
